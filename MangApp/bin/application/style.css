@@ -1,0 +1,9 @@
+.bodybg{
+	-fx-background-image:  url("/application/photoback.jpg");
+	-fx-background-size: cover;
+}
+
+.text{
+	-fx-background-color: rgba(83,86,90,0.9);
+	-fx-background-radius: 30;
+}
