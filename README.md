@@ -3,6 +3,4 @@ An menu with none to many app inside that i'll use on my raspberry
 
 Works with java 1.8
 
-<form method="get" action="file.doc">
-   <button type="submit">Download .jar</button>
-</form>
+<a href="https://github.com/Napoli-tan/MangApp/blob/main/MangApp/MangApp.jar" download="MangApp.jar">Download</a>
